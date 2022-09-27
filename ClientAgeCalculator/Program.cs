@@ -1,9 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
+/** Client Age Calculator
+ * Calculates a client's age given an appropriate date of birth.
+ * Written by Joshua S. Garrett
+ * 09/27/2022
+ */
 namespace ClientAgeCalculator
 {
     internal static class Program
